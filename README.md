@@ -4,12 +4,6 @@ Short one-line description of what this project does.
 
 ---
 
-## 📸 Demo / Preview
-> Add an image or GIF here later  
-`(optional but highly recommended)`
-
----
-
 ## 🧠 Concept
 Explain **what you are learning** or **what problem this project solves**.
 
